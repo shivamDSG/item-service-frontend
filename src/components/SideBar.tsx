@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme) => ({
         },
     },
 
-    drawerPaper: { width: 'inherit' },
+    drawerPaper: { width: '20%' },
     
     link: {
       textDecoration: 'none',
